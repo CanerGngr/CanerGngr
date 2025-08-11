@@ -37,6 +37,24 @@ A comprehensive Pokemon database application with search functionality and detai
 - **Features:** Pokemon search, detailed stats, responsive design
 - **Highlights:** Clean UI, API integration, interactive cards
 
+### 🍕 [Bestellapp](https://github.com/CanerGngr/Bestellapp)
+Modern food delivery ordering application with shopping cart functionality and interactive menu.
+- **Tech Stack:** HTML, CSS, JavaScript
+- **Features:** Shopping cart, interactive menu, responsive design
+- **Highlights:** Custom UI components, smooth user experience
+
+### 📸 [Fotogram](https://github.com/CanerGngr/Fotogram)
+Instagram-inspired photo sharing web application showcasing modern web development.
+- **Tech Stack:** HTML, CSS, JavaScript
+- **Features:** Image galleries, responsive layouts, clean UI design
+- **Focus:** Modern web design and user interface principles
+
+### 🍜 [Sakura Ramen HP](https://github.com/CanerGngr/Sakura_Ramen_HP)
+Beautiful restaurant homepage for Sakura Ramen featuring elegant design and menu showcase.
+- **Tech Stack:** HTML, CSS, JavaScript
+- **Features:** Menu showcase, location finder, elegant design
+- **Highlights:** Modern web design principles, responsive layout
+
 ### 🍎 [FruityList](https://github.com/CanerGngr/fruitylist)
 An elegant fruit catalog application showcasing modern web development practices.
 - **Tech Stack:** HTML, CSS, JavaScript
