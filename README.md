@@ -64,12 +64,12 @@ An elegant fruit catalog application showcasing modern web development practices
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CanerGngr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CanerGngr&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CanerGngr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats for CanerGngr"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CanerGngr&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages used by CanerGngr"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=CanerGngr&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=CanerGngr&theme=tokyonight" alt="GitHub contribution streak for CanerGngr" />
 </div>
 
 ## 📈 Activity Graph
