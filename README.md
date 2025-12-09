@@ -73,7 +73,7 @@ An elegant fruit catalog application showcasing modern web development practices
 </div>
 
 ## 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CanerGngr&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff6b6b&area_color=bf91f3&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CanerGngr&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff6b6b&area_color=bf91f3&area=true&hide_border=true" alt="GitHub contribution activity graph for CanerGngr" />
 
 ## 🏆 GitHub Trophies
 <div align="center">
