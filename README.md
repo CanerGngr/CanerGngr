@@ -64,12 +64,12 @@ An elegant fruit catalog application showcasing modern web development practices
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CanerGngr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanerGngr&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CanerGngr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CanerGngr&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CanerGngr&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=CanerGngr&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 📈 Activity Graph
@@ -77,7 +77,7 @@ An elegant fruit catalog application showcasing modern web development practices
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CanerGngr&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-trophies.vercel.app/?username=CanerGngr&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
 ## 🤝 Let's Connect!
