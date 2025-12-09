@@ -64,20 +64,20 @@ An elegant fruit catalog application showcasing modern web development practices
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CanerGngr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanerGngr&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CanerGngr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats for CanerGngr"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CanerGngr&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages used by CanerGngr"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CanerGngr&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=CanerGngr&theme=tokyonight" alt="GitHub contribution streak for CanerGngr" />
 </div>
 
 ## 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CanerGngr&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff6b6b&area_color=bf91f3&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CanerGngr&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff6b6b&area_color=bf91f3&area=true&hide_border=true" alt="GitHub contribution activity graph for CanerGngr" />
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CanerGngr&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-trophies.vercel.app/?username=CanerGngr&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
 ## 🤝 Let's Connect!
